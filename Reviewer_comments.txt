@@ -1,0 +1,15 @@
+Addressing comments from reviewers:
+
+Reviewer 1:
+
++ Request for parasitic heat load estimates: Significant editing of manuscript to provide estimation of parasitic heat loads and methodology for estimating. Plot added showing result of process.
+
++ Request for elaboration of discrepant data: Added possible explanations for discrepancy and added information on the superconducting properties of Ti 15-3-3-3
+
+Reviewer 2:
+
++ Request for conclusion synthesizing data of radioactivity and thermal conductivity: Added a final concluding remarks section which addresses difficulty of choosing a "best" material. Instead, I explain various parameters which will determine the material choice.
+
++ Typos fixed
+
++ Request for clarification in explanation of "good agreement" in data: re-worked caption of plot and added sentence in manuscript to explain further.
